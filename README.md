@@ -15,7 +15,7 @@
 <br>
 <br>
 <p align="center">
- [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=100)](https://github.com/Ajay-o-s) 
+   [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=100)](https://github.com/Ajay-o-s) 
  <br>
  <a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
 
