@@ -18,7 +18,7 @@
    [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=100)](https://github.com/Ajay-o-s) 
  <br>
  <a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
-
+</p>
 ## MY Organizations 
 <br>
 <br>
@@ -34,7 +34,7 @@
 [AK-HUB-S](https://github.com/AK-HUB-S) | [NIYABABY](https://github.com/niyababy) | [Platypusfact](https://github.com/Platypusfact) 
 
 `MAIN  Organization` | `NIYABABY BOT` | Packages for `AK-HUB-S`
-</p>
+
   <br>
 <br>
 
