@@ -14,12 +14,12 @@
 <br>
 <br>
 <br>
-<div align="center">
 
-   [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=100)](https://github.com/Ajay-o-s) 
+
+   [![Ajay-o-s](https://github.com/Ajay-o-s.png)](https://github.com/Ajay-o-s) 
  <br>
  <a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
-</div>
+
 ## MY Organizations 
 <br>
 <br>
@@ -27,7 +27,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://git.io/typing-svg)
  <br>
 <br>
-
+<div align="center">
 [![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
 [![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
 [![Platypusfact](https://github.com/Platypusfact.png?size=100)](https://github.com/Platypusfact) 
@@ -35,7 +35,7 @@
 [AK-HUB-S](https://github.com/AK-HUB-S) | [NIYABABY](https://github.com/niyababy) | [Platypusfact](https://github.com/Platypusfact) 
 
 `MAIN  Organization` | `NIYABABY BOT` | Packages for `AK-HUB-S`
-
+</div>
   <br>
 <br>
 
