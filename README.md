@@ -14,17 +14,18 @@
 <br>
 <br>
 <br>
+<div align="center">
 
-
-   [![Ajay-o-s](https://github.com/Ajay-o-s.png)](https://github.com/Ajay-o-s) 
+   [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=200)](https://github.com/Ajay-o-s) 
  <br>
  <a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
-
+</div>
+   
 ## MY Organizations 
 <br>
 <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://github.com/Ajay-o-s)
  <br>
 <br>
 
