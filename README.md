@@ -17,7 +17,7 @@
 <p align="center">
  [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=100)](https://github.com/Ajay-o-s) 
  <a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
-<p>
+
 ## MY Organizations 
 <br>
 <br>
@@ -25,7 +25,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://git.io/typing-svg)
  <br>
 <br>
-<p align="center">
+
 [![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
 [![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
 [![Platypusfact](https://github.com/Platypusfact.png?size=100)](https://github.com/Platypusfact) 
