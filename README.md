@@ -15,7 +15,7 @@
    [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=200)](https://github.com/Ajay-o-s) 
  <br>
  <a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
-   <a href="https://github.com/Ajay-o-s/following"><img title="following" src="https://img.shields.io/github/following/Ajay-o-s?color=blue&style=flat-square"></a>
+   <a href="https://github.com/Ajay-o-s/following"><img title="following" src="https://img.shields.io/github/followers/Ajay-o-s?style=social"></a>
 </div>
    
 ## MY Organizations 
