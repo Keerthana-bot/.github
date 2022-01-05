@@ -15,17 +15,19 @@
 <br>
 <br>
 ## MY Organizations 
+<br>
+<br>
 
-<p align="center">
-[![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
-[![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://git.io/typing-svg)
+    [![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
+    [![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
 [![Platypusfact](https://github.com/Platypusfact.png?size=100)](https://github.com/Platypusfact) 
 
 [AK-HUB-S](https://github.com/AK-HUB-S) [NIYABABY](https://github.com/niyababy)  [Platypusfact](https://github.com/Platypusfact) 
 
 `MAIN  Organization` | `NIYABABY BOT` | Packages for `AK-HUB-S`
 
-  </div>
-  
+  <br>
+<br>
   
 ![Visitor Count](https://profile-counter.glitch.me/{Ajay-o-s}/count.svg)
