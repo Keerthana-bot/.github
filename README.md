@@ -5,10 +5,6 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=HI+I'm+AJAY+O+S)](https://github.com/Ajay-o-s)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=Software+Engineer+from+Kerala)](https://github.com/Ajay-o-s)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=+Open+Source+Software+Developer)](https://github.com/Ajay-o-s)
-<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=Nice+to+meet+you..!)](https://github.com/Ajay-o-s)
 <br>
 <br>
