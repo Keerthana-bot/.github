@@ -25,13 +25,17 @@
     [![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
 [![Platypusfact](https://github.com/Platypusfact.png?size=100)](https://github.com/Platypusfact) 
 
-[AK-HUB-S](https://github.com/AK-HUB-S) [NIYABABY](https://github.com/niyababy)  [Platypusfact](https://github.com/Platypusfact) 
+[AK-HUB-S](https://github.com/AK-HUB-S) | [NIYABABY](https://github.com/niyababy) | [Platypusfact](https://github.com/Platypusfact) 
 
 `MAIN  Organization` | `NIYABABY BOT` | Packages for `AK-HUB-S`
   <br>
 <br>
 <p align="center">
 
+[![Ajay-o-s](https://github.com/Ajay-o-s.png?size=100)](https://github.com/Ajay-o-s) 
+[![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
+[![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
+[![Platypusfact](https://github.com/Platypusfact.png?size=100)](https://github.com/Platypusfact)
 <a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
 <a href="https://github.com/AK-HUB-S/followers"><img title="Followers" src="https://img.shields.io/github/followers/AK-HUB-S?color=blue&style=flat-square"></a>
 <a href="https://github.com/niyababy/followers"><img title="Followers" src="https://img.shields.io/github/followers/niyababy?color=blue&style=flat-square"></a>
@@ -44,7 +48,6 @@
 
 <a href="https://github.com/Ajay-o-s/Paathu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajay-o-s/niyababy?label=Watchers&color=blue&style=flat-square"></a>
 
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 </p>
   
