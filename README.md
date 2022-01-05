@@ -28,8 +28,24 @@
 [AK-HUB-S](https://github.com/AK-HUB-S) [NIYABABY](https://github.com/niyababy)  [Platypusfact](https://github.com/Platypusfact) 
 
 `MAIN  Organization` | `NIYABABY BOT` | Packages for `AK-HUB-S`
-
   <br>
 <br>
+<p align="center">
+
+<a href="https://github.com/Ajay-o-s/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajay-o-s?color=blue&style=flat-square"></a>
+<a href="https://github.com/AK-HUB-S/followers"><img title="Followers" src="https://img.shields.io/github/followers/AK-HUB-S?color=blue&style=flat-square"></a>
+<a href="https://github.com/niyababy/followers"><img title="Followers" src="https://img.shields.io/github/followers/niyababy?color=blue&style=flat-square"></a>
+<a href="https://github.com/Platypusfact/followers"><img title="Followers" src="https://img.shields.io/github/followers/Platypusfact?color=blue&style=flat-square"></a>
+ <br>
+ <br>
+<a href="https://github.com/Ajay-o-s/Paathu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajay-o-s/niyababy?color=green&style=flat-square"></a>
+
+<a href="https://github.com/Ajay-o-s/Paathu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajay-o-s/niyababy?color=blue&style=flat-square"></a>
+
+<a href="https://github.com/Ajay-o-s/Paathu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajay-o-s/niyababy?label=Watchers&color=blue&style=flat-square"></a>
+
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+
+</p>
   
 ![Visitor Count](https://profile-counter.glitch.me/{Ajay-o-s}/count.svg)
