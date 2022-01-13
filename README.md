@@ -30,11 +30,11 @@
    
    [![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
 [![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
-[![Platypusfact](https://github.com/Platypusfact.png?size=100)](https://github.com/Platypusfact) 
+[![Platypusfact](https://github.com/AK-HUB-TOOLS.png?size=100)](https://github.com/AK-HUB-TOOLS) 
 
-[AK-HUB-S](https://github.com/AK-HUB-S) | [NIYABABY](https://github.com/niyababy) | [Platypusfact](https://github.com/Platypusfact) 
+[AK-HUB-S](https://github.com/AK-HUB-S) | [NIYABABY](https://github.com/niyababy) | [TOOLS](https://github.com/AK-HUB-TOOLS) 
 
-`MAIN  Organization` | `NIYABABY BOT` | Packages for `AK-HUB-S`
+`MAIN  Organization` | `NIYABABY BOT` | 'Tools for AK-HUB`
 </div>
   <br>
 <br>
