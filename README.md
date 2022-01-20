@@ -35,27 +35,6 @@
 
 ---
 
-<br>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://github.com/Ajay-o-s)
- <br>
-<br>
-
-<div align="center">
-   
-   
-   [![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
-[![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
-[![Platypusfact](https://github.com/AK-HUB-TOOLS.png?size=100)](https://github.com/AK-HUB-TOOLS) 
-
-<a href="https://github.com/orgs/Ak-HUB-S/repositories"><img alt="Ak-HUB-S" title="Ak-HUB-S" src="https://custom-icon-badges.herokuapp.com/badge/-AK%20HUB-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-<a href="https://github.com/orgs/niyababy/repositories"><img alt="niyababy" title="niyababy" src="https://custom-icon-badges.herokuapp.com/badge/-NIYABABY-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-<a href="https://github.com/orgs/Ak-HUB-TOOLS/repositories"><img alt="Ak-HUB-TOOLS" title="Ak-HUB-TOOLS" src="https://custom-icon-badges.herokuapp.com/badge/-TOOLS-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-`MAIN  Organization` | `NIYABABY BOT` | `Tools for AK-HUB`
-</div>
-<br>
-
 ---
 
 <br>
@@ -97,7 +76,8 @@
 
 </p>
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Ajay-o-s&theme=highcontrast&repo=Ajay-o-s)](https://github.com/BlackAmda/QueenAmdi)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Ajay-o-s&theme=highcontrast&repo=Ajay-o-s.github.io)](https:/Ajay-o-s.github.io)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=AK-HUB-S&theme=highcontrast&repo=AK-HUB-S.github.io)](https://AK-HUB-S.github.io)
 
 ---
 <br>
@@ -123,4 +103,65 @@
 
 
 
+</details>
+
+
+<details>
+    <summary>&#127941 <b>Organizations</b></summary><br/>
+<br>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://github.com/Ajay-o-s)
+ <br>
+<br>
+
+<div align="center">
+   
+   
+[![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S) 
+[![NIYABABY](https://github.com/niyababy.png?size=100)](https://github.com/niyababy) 
+[![Platypusfact](https://github.com/AK-HUB-TOOLS.png?size=100)](https://github.com/AK-HUB-TOOLS) 
+
+<a href="https://github.com/orgs/Ak-HUB-S/repositories"><img alt="Ak-HUB-S" title="Ak-HUB-S" src="https://custom-icon-badges.herokuapp.com/badge/-AK%20HUB-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/orgs/niyababy/repositories"><img alt="niyababy" title="niyababy" src="https://custom-icon-badges.herokuapp.com/badge/-NIYABABY-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/orgs/Ak-HUB-TOOLS/repositories"><img alt="Ak-HUB-TOOLS" title="Ak-HUB-TOOLS" src="https://custom-icon-badges.herokuapp.com/badge/-TOOLS-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+`MAIN  Organization` | `NIYABABY BOT` | `Tools for AK-HUB`
+</div>
+<br>
+</details>
+<details>
+    <summary>&#127941 <b>Ajay-o-s</b></summary><br/>
+<br>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://github.com/Ajay-o-s)
+ <br>
+<br>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<br>
+</details>
+
+<details>
+    <summary>&#127941 <b>niyababy</b></summary><br/>
+<br>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72E0C&size=36&lines=MY+Organizations)](https://github.com/Ajay-o-s)
+ <br>
+<br>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<br>
+<br>
 </details>
