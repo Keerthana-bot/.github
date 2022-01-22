@@ -17,58 +17,43 @@
 </div><br>
 
 ---
-<br>
 
 ### ***FOR MORE ABOUT***
 
-[> ***PROFILE*** <](#**Profile**)<br> 
-[> ***METRICS*** <](#**Metrics**)<br>
-[> ***PROJECTS*** <](#**Projects**)<br>
-[> ***WEBPAGES*** <](#**WEBPAGES**)<br>
-[> ***ORGANIZATIONS*** <](#**Organizations**)<br>
-[> ***LANGUAGES*** <](#**LANGUAGES**) <br>
-[> ***CODING*** <](#**Coding**)<br>
-[> ***CI/CD*** <](#**CI/CD**)<br>
-[> ***HOSTING*** <](#**Hosting**)<br>
-[> ***FRAMEWORKS*** <](#**Frameworks**)<br>
-[> ***DATABASE*** <](#**Database**)<br>
-[> ***SUPPORT*** <](#**Support**)<br>
-
-<br>
+[> ***PROFILE*** <](#Profile)<br> 
+[> ***METRICS*** <](#Metrics)<br>
+[> ***PROJECTS*** <](#Projects)<br>
+[> ***WEBPAGES*** <](#WEBPAGES)<br>
+[> ***ORGANIZATIONS*** <](#Organizations)<br>
+[> ***LANGUAGES*** <](#LANGUAGES) <br>
+[> ***CODING*** <](#Coding)<br>
+[> ***CI/CD*** <](#CI/CD)<br>
+[> ***HOSTING*** <](#Hosting)<br>
+[> ***FRAMEWORKS*** <](#Frameworks)<br>
+[> ***DATABASE*** <](#Database)<br>
+[> ***SUPPORT*** <](#Support)
 
 ---
-<br>
 
 ### 🌱 I’m currently learning **Python, Java, Java script Node.js, HTML, CSS**
-### 👨‍💻 All of my Open Source projects are available at > [***PROJECTS***](#**Projects**) <
-
+### 👨‍💻 All of my Open Source projects are available at > [***PROJECTS***](#Projects) <
 ### 💫 **I am Open Source Software Developer. 🌆**
-<br>
-
 ---
-<br>
 
 # **Profile**
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-o-s&show_icons=true&theme=highcontrast" alt="Ajay-o-s" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-o-s&theme=highcontrast" alt="Ajay-o-s" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-o-s&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
-<br>
-<br>
 
 # **Metrics**
 [![Metrics](https://metrics.lecoq.io/Ajay-o-s?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)](https://github.com/Ajay-o-s)
-<br>
 
 ---
-<br>
 
 # **Projects**
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%32DD309&size=36&lines=MY+Repos)](https://github.com/Ajay-o-s)
- <br>
-<br>
 
 # [**Ajay-o-s**](https://github.com/Ajay-o-s?tab=repositories&sort=stargazers) 
 <a href="https://github.com/Ajay-o-s/Ajay-o-s"><img alt="Ajay-o-s" title="Ajay-o-s" src="https://custom-icon-badges.herokuapp.com/badge/-Ajay%20o%20s-F16000?style=for-the-badge&logoColor=black&logo=code"/></a>
@@ -77,13 +62,8 @@
 
 # [**AK-HUB**](https://github.com/AK-HUB-S)
 <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> <a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="Ajay-o-s Repositories" title="Ajay-o-s Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-code-F16000?style=for-the-badge&logoColor=black&logo=code"/></a> 
-<br><br>
-
-<br>
 
 # **My currently working on projects**
-
-<br>
 
 <a href="https://github.com/Ajay-o-s/Ajay-o-s"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ajay-o-s&repo=Ajay-o-s&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Ajay-o-s"></a> <a href="https://github.com/Ajay-o-s/Bot_module"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ajay-o-s&repo=Bot_module&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Bot_module"></a> <a href="https://github.com/AK-HUB-S/node_modules"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AK-HUB-S&repo=node_modules&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Bot_module"></a>
 <a href="https://github.com/AK-HUB-TOOLS/packages"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AK-HUB-TOOLS&repo=packages&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="https://github.com/AK-HUB-TOOLS/packages"></a>
@@ -98,20 +78,15 @@
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=AK-HUB-S&theme=highcontrast&repo=AK-HUB-S.github.io)](https://AK-HUB-S.github.io)
 
-<br><br>
-
 ---
-<br>
 
 # **Organizations**
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%32DD309&size=36&lines=MY+Organizations)](https://github.com/Ajay-o-s)
  <br>
 <br>
-
 <div align="center">
-   
-   
+ 
 [![AK-HUB-S](https://github.com/AK-HUB-S.png?size=100)](https://github.com/AK-HUB-S)
 [![Platypusfact](https://github.com/AK-HUB-TOOLS.png?size=100)](https://github.com/AK-HUB-TOOLS) 
 
@@ -119,10 +94,9 @@
 <a href="https://github.com/orgs/Ak-HUB-TOOLS/repositories"><img alt="Ak-HUB-TOOLS" title="Ak-HUB-TOOLS" src="https://custom-icon-badges.herokuapp.com/badge/-TOOLS-2962FF?style=for-the-badge&logoColor=white&logo=home"/></a>
 
 `MAIN  Organization` | `Tools for AK-HUB`
-</div><br>
+</div>
 
 ---
-<br>
 
 # **Languages**
 
