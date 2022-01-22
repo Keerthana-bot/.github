@@ -128,47 +128,36 @@
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </a><a href="https://replit.com/~" target="_blank"> <img src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg" alt="heroku" /> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg" alt="typescript" width="40" height="40"/></a> <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-<br><br>
 
 ---
 
 # **Coding**
 
 [![visual studio](https://img.shields.io/badge/visualstudio-007788?style=for-the-badge&logo=visual-studio&logoColor=blue)](https://visualstudio.microsoft.com/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/) [![windows](https://img.shields.io/badge/windows-0000FF?style=for-the-badge&logo=windows&logoColor=black)](https://www.microsoft.com/en-in/windows) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/) [![Android](https://img.shields.io/badge/Android-008000?style=for-the-badge&logo=Android&logoColor=black)](https://www.android.com/intl/en_in/)
-<br><br>
 
 ---
-<br>
 
 # **CI/CD**
 
-<br>
 
- ![GitHub Actions](https://img.shields.io/badge/github&nbsp;actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%231B98BF.svg?style=for-the-badge&logo=docker&logoColor=white)
- <br><br>
+ [![GitHub Actions](https://img.shields.io/badge/github&nbsp;actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)]() [![Docker](https://img.shields.io/badge/docker-%231B98BF.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 
  ---
- <br>
 
 # **Hosting** 
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Fosshost](https://img.shields.io/badge/fosshost-%23f0f0f0.svg?style=for-the-badge&logo=vodafone&logoColor=FF0000)](https://fosshost.org/) [![Rocky Linux](https://img.shields.io/badge/Rocky&nbsp;Linux-%2310B981.svg?style=for-the-badge&logo=rocky-linux&logoColor=white)](https://rockylinux.org/) 
-<br><br>
 
 ---
-<br>
 
 # **Frameworks**
 
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)]() [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-<br><br>
 
 ---
-<br>
-
 
 # **Database**
+
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]()
-<br><br>
 
 ---
 <br>
