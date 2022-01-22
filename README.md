@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232DD309&size=28&lines=HI+I'm+AJAY+O+S;Nice+to+meet+you..!)](https://git.io/typing-svg)
 <br>
-<script>
-      var now = new Date().getTime();
-      document.getElementById("time")
-      
-</script>
-
 <div align="center">
 
 [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=200)](https://github.com/Ajay-o-s) 
