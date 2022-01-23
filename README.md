@@ -47,6 +47,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-o-s&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
 
 # **Metrics**
+
 [![Metrics](https://metrics.lecoq.io/Ajay-o-s?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)](https://github.com/Ajay-o-s)
 
 ---
@@ -70,13 +71,9 @@
 
 # **WEBPAGES**
 
-<a href="https://Ajay-o-s.github.io/"><img alt="Ajay-o-s webpage" title="Ajay-o-s HOME" src="https://custom-icon-badges.herokuapp.com/badge/-AJAY%20O%20S-F16000?style=for-the-badge"/></a> 
+<a href="https://Ajay-o-s.github.io/"><img alt="Ajay-o-s webpage" title="Ajay-o-s HOME" src="https://custom-icon-badges.herokuapp.com/badge/-AJAY%20O%20S-F16000?style=for-the-badge"/></a> <a href="https://AK-HUB-S.github.io/"><img alt="AK-HUB-S webpage" title="AK-HUB-S HOME" src="https://custom-icon-badges.herokuapp.com/badge/-AK%20HUB-F16000?style=for-the-badge"/></a>
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Ajay-o-s&theme=highcontrast&repo=Ajay-o-s.github.io)](https:/Ajay-o-s.github.io) 
-
-<a href="https://AK-HUB-S.github.io/"><img alt="AK-HUB-S webpage" title="AK-HUB-S HOME" src="https://custom-icon-badges.herokuapp.com/badge/-AK%20HUB-F16000?style=for-the-badge"/></a>
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=AK-HUB-S&theme=highcontrast&repo=AK-HUB-S.github.io)](https://AK-HUB-S.github.io)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Ajay-o-s&theme=highcontrast&repo=Ajay-o-s.github.io)](https:/Ajay-o-s.github.io) [![News](https://github-readme-stats.vercel.app/api/pin/?username=AK-HUB-S&theme=highcontrast&repo=AK-HUB-S.github.io)](https://AK-HUB-S.github.io)
 
 ---
 
