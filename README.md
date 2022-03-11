@@ -37,7 +37,7 @@
 
 ### 🌱 I’m currently learning **Python, C, C++, Java, Java script Node.js, HTML, CSS**
 ### 👨‍💻 All of my Open Source projects are available at > [***PROJECTS***](#Projects) <
-### 💫 **I am Open Source Software Developer. 🌆**
+
 ---
 
 # **Profile**
