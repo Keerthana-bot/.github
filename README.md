@@ -113,12 +113,6 @@
 <br>
 
 # **Support**
-<div align="center">
-
-[![Ajay-o-s](https://github.com/sponsors/Ajay-o-s/card)](https://github.com/Ajay-o-s) 
-
- <iframe src="https://github.com/sponsors/Ajay-o-s/card" title="Sponsor Ajay-o-s" height="225" width="600" style="border: 0;"></iframe>
-</div>
 
 ## If you like what I do, please consider **[buying me a coffee](https://www.buymeacoffee.com/Ajayos)!**
 
