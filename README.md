@@ -3,22 +3,23 @@
 <div align="center">
 
 [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=200)](https://github.com/Ajay-o-s) 
-<br>
-<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-<a href="https://github.com/B-SUDO-003"><img alt="All Repositories" title="BLACK_SUDO" src="https://custom-icon-badges.herokuapp.com/badge/-BLACK_SUDO-2962FF?style=for-the-badge&logoColor=white&logo=Organization"/></a> <a href="https://github.com/TB-SUDO"><img alt="All Repositories" title="TEAM BLACK_SUDO" src="https://custom-icon-badges.herokuapp.com/badge/-TB_SUDO-2962FF?style=for-the-badge&logoColor=white&logo=Organization"/></a>
- <br>
-<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ajay-o-s"/></a>
+ 
 <a href="https://github.com/Ajay-o-s?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ajay-o-s?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <br>
- <a href="https://github.com/sponsors/Ajay-o-s" target="_blank"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://custom-icon-badges.herokuapp.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white"/></a>    <a href="https://www.buymeacoffee.com/Ajayos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
-
+<a href="https://github.com/sponsors/Ajay-o-s" target="_blank"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://custom-icon-badges.herokuapp.com/badge/Sponsor-pink?style=for-the-badge&logo=GitHub&color=black"/></a>    <a href="https://www.buymeacoffee.com/Ajayos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+<br>
+<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/B-SUDO-003"><img alt="All Repositories" title="BLACK_SUDO" src="https://custom-icon-badges.herokuapp.com/badge/-BLACK_SUDO-2962FF?style=for-the-badge&logoColor=white&logo=Organization"/></a> <a href="https://github.com/TB-SUDO"><img alt="All Repositories" title="TEAM BLACK_SUDO" src="https://custom-icon-badges.herokuapp.com/badge/-TB_SUDO-2962FF?style=for-the-badge&logoColor=white&logo=Organization"/></a>
+<br>
+<br>
 <a href="https://github.com/Ajay-o-s/Ajay-o-s">
 <img src="https://profile-counter.glitch.me/{Ajay-o-s}/count.svg"></a>
 </div><br>
 
 ---
+
+<!-- sponsors --> <!-- sponsors -->
 
 ### ***FOR MORE ABOUT***
 
@@ -50,7 +51,7 @@
 
 # **Metrics**
 
-[![Metrics](https://metrics.lecoq.io/Ajay-o-s?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)](https://github.com/Ajay-o-s)
+![Metrics](https://metrics.lecoq.io/Ajay-o-s?template=classic&isocalendar=1&languages=1&habits=1&followup=1&reactions=1&people=1&stargazers=1&projects=1&achievements=1&sponsors=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.ignored=html%2Ccss%2Csvg%2Cjavascript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=javascript&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=false&habits.languages.limit=10&followup.sections=repositories&followup.indepth=true&followup.archived=true&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following%2Csponsors&people.thanks=Ajay-o-s.github&people.sponsors.custom=Ajay-o-s&people.shuffle=false&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=true&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&config.timezone=Asia%2FCalcutta)
 
 [![SNAKE ](./github-user-contribution.svg)](#)
 
@@ -112,8 +113,10 @@
 <br>
 
 # **Support**
+<div align="center">
 
-<div>
+[![Ajay-o-s](https://github.com/sponsors/Ajay-o-s/card)](https://github.com/Ajay-o-s) 
+
  <iframe src="https://github.com/sponsors/Ajay-o-s/card" title="Sponsor Ajay-o-s" height="225" width="600" style="border: 0;"></iframe>
 </div>
 
