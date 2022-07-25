@@ -56,7 +56,7 @@
 # This is Skill i have learned ⬇
 
 
-### Programming Languange 💻⬇
+### Programming Languange 💻
 
 <img   align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img   align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -110,24 +110,24 @@
 ---
 
 ### Tools and OS ⚒
-<details><summary>⬇</summary><br>
+
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
 <img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
-</details>
+
 <br><br>
 
 ---
 
 ### bash
-<details><summary>⬇</summary><br>
+
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="termux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/termux/termux.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Cli" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cli/cli.png" />
-</details>
+
 <br><br>
 
 ---
@@ -142,21 +142,20 @@
 ---
 
 ### Text Editor 
-<details><summary>⬇</summary><br>
+
 <img align="left" alt="Vscode" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Vscode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" />
 <img align="left" alt="Androidstudio" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" /><br>
-</details>
+
 <br><br>
 
 ---
 
 ### Hosting
-<details><summary>⬇</summary><br>
 
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.heroku.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Railway](https://img.shields.io/badge/railway-000005?style=for-the-badge&logo=railway&logoColor=white)](https://http://railway.app/)  [![Replit](https://img.shields.io/badge/replit-000008?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Ajay-o-s/) [![Travis](https://img.shields.io/badge/travis%20ci-994010?style=for-the-badge&logo=travis&logoColor=white)](https://travis-ci.org/) [![Vercel](https://img.shields.io/badge/Vercel-00000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/) [![Circleci](https://img.shields.io/badge/circleci-600000?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
-</details>
+
 <br><br>
 
 ---
