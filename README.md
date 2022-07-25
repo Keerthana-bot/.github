@@ -36,6 +36,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ajay_o_s_)
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-o-s)
 [![Replit](https://img.shields.io/badge/replit-000008?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Ajay-o-s/)
+[![linkedin](https://img.shields.io/badge/linkedin-236ad3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-o-s/)
 
 ---
 
