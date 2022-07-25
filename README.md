@@ -67,7 +67,8 @@
 <img   align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img   align="left" alt="Php" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 <img   align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img   align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+<img   align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" /><br></br>
+
 <img   align="left" alt="PYTHON" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img   align="left" alt="bash" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 <img   align="left" alt="DOCKER" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
@@ -78,21 +79,6 @@
 <img   align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img   align="left" alt="heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img   align="left" alt="google_cloud" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-
-<br><br>
-
----
-
-### Frameworks
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Express JS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
-<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Tailwindcss" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
-<img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />
-<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
-
 <br><br>
 
 ---
@@ -104,8 +90,19 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+<br>
 
-<br><br>
+---
+### Frameworks
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Express JS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
+<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Tailwindcss" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
+<img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />
+<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<br>
 
 ---
 
@@ -115,8 +112,7 @@
 <img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
-
-<br><br>
+<br>
 
 ---
 
@@ -127,17 +123,15 @@
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Cli" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cli/cli.png" />
-
-<br><br>
+<br>
 
 ---
 
 ### Microcontroller ⚙
-<details><summary>⬇</summary><br>
+
 <img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 <img align="left" alt="Raspberry PI" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" />
-</details>
-<br><br>
+<br>
 
 ---
 
@@ -146,17 +140,15 @@
 <img align="left" alt="Vscode" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Vscode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" />
-<img align="left" alt="Androidstudio" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" /><br>
-
-<br><br>
+<img align="left" alt="Androidstudio" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" />
+<br>
 
 ---
 
 ### Hosting
 
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.heroku.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Railway](https://img.shields.io/badge/railway-000005?style=for-the-badge&logo=railway&logoColor=white)](https://http://railway.app/)  [![Replit](https://img.shields.io/badge/replit-000008?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Ajay-o-s/) [![Travis](https://img.shields.io/badge/travis%20ci-994010?style=for-the-badge&logo=travis&logoColor=white)](https://travis-ci.org/) [![Vercel](https://img.shields.io/badge/Vercel-00000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/) [![Circleci](https://img.shields.io/badge/circleci-600000?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
-
-<br><br>
+<br>
 
 ---
 
