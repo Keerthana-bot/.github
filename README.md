@@ -47,7 +47,7 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-o-s&show_icons=true&theme=highcontrast" alt="Ajay-o-s" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-o-s&theme=highcontrast" alt="Ajay-o-s" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreza78&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub readme stats" width=405px>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-o-s&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-o-s&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
 
 </div>
 
@@ -78,7 +78,7 @@
 <img   align="left" alt="heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img   align="left" alt="google_cloud" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
 </details>
-<br>
+<br><br>
 
 ---
 
@@ -92,6 +92,7 @@
 <img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />
 <img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
 </details>
+<br><br>
 
 ---
 
@@ -103,6 +104,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
 </details>
+<br><br>
 
 ---
 
@@ -113,6 +115,7 @@
 <img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
 </details>
+<br><br>
 
 ---
 
@@ -124,6 +127,7 @@
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Cli" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cli/cli.png" />
 </details>
+<br><br>
 
 ---
 
@@ -132,6 +136,7 @@
 <img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 <img align="left" alt="Raspberry PI" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" />
 </details>
+<br><br>
 
 ---
 
@@ -142,6 +147,7 @@
 <img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" />
 <img align="left" alt="Androidstudio" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" /><br>
 </details>
+<br><br>
 
 ---
 
@@ -150,6 +156,7 @@
 
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.heroku.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Railway](https://img.shields.io/badge/railway-000005?style=for-the-badge&logo=railway&logoColor=white)](https://http://railway.app/)  [![Replit](https://img.shields.io/badge/replit-000008?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Ajay-o-s/) [![Travis](https://img.shields.io/badge/travis%20ci-994010?style=for-the-badge&logo=travis&logoColor=white)](https://travis-ci.org/) [![Vercel](https://img.shields.io/badge/Vercel-00000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/) [![Circleci](https://img.shields.io/badge/circleci-600000?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
 </details>
+<br><br>
 
 ---
 
