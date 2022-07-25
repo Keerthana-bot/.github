@@ -31,7 +31,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ajay_o_s_)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=919188346721&text=%27Hi%20I%20Am%20From%20GitHub%20☺️)
-[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ajay_o_s) 
+[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/_ajay_o_s_) 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayosakhub@gmail.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject20%here)
 [![Twitter](https://img.shields.io/badge/twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ajay_o_s_)
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajay-o-s)
