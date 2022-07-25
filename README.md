@@ -55,8 +55,9 @@
 
 # This is Skill i have learned ⬇
 
+
 ### Programming Languange 💻⬇
-<details><summary>⬇</summary><br></br>
+
 <img   align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img   align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img   align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" />
@@ -77,13 +78,13 @@
 <img   align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img   align="left" alt="heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img   align="left" alt="google_cloud" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-</details>
+
 <br><br>
 
 ---
 
 ### Frameworks
-<details><summary>⬇</summary><br>
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Express JS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" />
@@ -91,19 +92,19 @@
 <img align="left" alt="Tailwindcss" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
 <img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />
 <img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
-</details>
+
 <br><br>
 
 ---
 
 ### Databases
-<details><summary>⬇</summary><br>
+
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-</details>
+
 <br><br>
 
 ---
