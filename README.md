@@ -20,7 +20,7 @@
 - 👨‍💻 Currently, I'm doing my diploma in computer engineering at GPTC Perumbavoor, Kerala😜. 
 - 👨‍💻 I love coding 😍😉
 - 👨‍💻 I'm working as an Open Source Software Developer.😁 
-- 👨‍💻 All of my projects are available at **[https://Ajay-o-s.github=ropo-official](https://github.com/Ajay-o-s?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[repositories](https://github.com/Ajay-o-s?tab=repositories)**
 - 👨‍💻 🆓 Don't Forget To **[Follow Me](https://github.com/Ajay-o-s)**
 
    [![👨follower](https://custom-icon-badges.herokuapp.com/github/followers/Ajay-o-s?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Ajay-o-s?tab=followers)
