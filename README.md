@@ -4,7 +4,7 @@
 
 [![Ajay-o-s](https://github.com/Ajay-o-s.png?size=200)](https://github.com/Ajay-o-s) 
 
-<a href="https://github.com/Ajay-o-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Ajay-o-s?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <a href="https://github.com/B-SUDO-003"><img alt="All Repositories" title="BLACK_SUDO" src="https://custom-icon-badges.herokuapp.com/badge/-BLACK_SUDO-2962FF?style=for-the-badge&logoColor=white&logo=Organization"/></a> <a href="https://github.com/TB-SUDO"><img alt="All Repositories" title="TEAM BLACK_SUDO" src="https://custom-icon-badges.herokuapp.com/badge/-TB_SUDO-2962FF?style=for-the-badge&logoColor=white&logo=Organization"/></a>
 
 <a href="https://github.com/Ajay-o-s/Ajay-o-s">
@@ -14,7 +14,7 @@
 
 ---
 
-- # 👨‍💻Hi&nbsp;<a href="Hey"><img src="./Hi.gif" width="48px"></a> I'm [Ajay o s](https://github.com/Ajay-o-s) !,
+- # 👨‍💻Hi&nbsp;<a href="Hey"><img src="./Hi.gif" width="48px"></a> I'm [Ajay o s](https://github.com/Ajay-o-s),
 - 👨‍💻 I'm from Kerala🙌💖.
 - 👨‍💻 🧑‍🏫 I’m currently working **very hard.**
 - 👨‍💻 Currently, I'm doing diploma in computer engineering at GPTC Perumbavoor, Kerala😜. 
